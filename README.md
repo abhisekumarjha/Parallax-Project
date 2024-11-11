@@ -2,7 +2,8 @@
 
 This parallax scrolling website is built using HTML, CSS, and JavaScript.
 
-![Parallax Effect Demo](Parallax Scrolling Website/parallax-demo.png)
+# Screenshot
+<img src="Parallax Scrolling Website/parallax-demo.png" alt="Parallax Effect Demo" width="auto"/>
 
 ## Features
 - Smooth parallax scrolling
